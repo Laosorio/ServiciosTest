@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4dafef7-05ca-4030-a2b7-704e9118a8bc" name="Default Changelist" comment="" />
+    <list default="true" id="a4dafef7-05ca-4030-a2b7-704e9118a8bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ServiciosTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ServiciosMovilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ServiciosMovilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ServiciosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ServiciosTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/TestServicios.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/ServiciosMovilTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/ServiciosMovilTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/ServiciosTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/ServiciosTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -28,12 +42,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
   </component>
   <component name="ProjectId" id="1YwsSI1cfPy8dd3otyJkkX0sdgw" />
   <component name="ProjectViewState">
@@ -47,20 +68,29 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ServiciosMovilTest.CP_009">
-    <configuration name="ServiciosMovilTest.CP_008" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestServicios" />
+  <component name="RunManager" selected="JUnit.ServiciosTest">
+    <configuration name="ServiciosMovilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ServiciosTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -69,30 +99,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.ServiciosMovilTest" />
-      <option name="METHOD_NAME" value="CP_008" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiciosMovilTest.CP_009" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestServicios" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ServiciosMovilTest" />
-      <option name="METHOD_NAME" value="CP_009" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ServiciosTest.CP_004" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestServicios" />
+    <configuration name="ServiciosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ServiciosTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -101,14 +114,29 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.ServiciosTest" />
-      <option name="METHOD_NAME" value="CP_004" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiciosTest.CP_001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ServiciosTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ServiciosTest" />
+      <option name="METHOD_NAME" value="CP_001" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ServiciosTest.CP_006" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestServicios" />
+      <module name="ServiciosTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -124,7 +152,7 @@
       </method>
     </configuration>
     <configuration name="ServiciosTest.CP_007" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestServicios" />
+      <module name="ServiciosTest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -139,13 +167,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.ServiciosTest.CP_006" />
+      <item itemvalue="JUnit.ServiciosTest.CP_007" />
+      <item itemvalue="JUnit.ServiciosTest" />
+      <item itemvalue="JUnit.ServiciosMovilTest" />
+      <item itemvalue="JUnit.ServiciosTest.CP_001" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ServiciosMovilTest.CP_009" />
-        <item itemvalue="JUnit.ServiciosMovilTest.CP_008" />
-        <item itemvalue="JUnit.ServiciosTest.CP_007" />
+        <item itemvalue="JUnit.ServiciosTest" />
+        <item itemvalue="JUnit.ServiciosTest.CP_001" />
+        <item itemvalue="JUnit.ServiciosMovilTest" />
         <item itemvalue="JUnit.ServiciosTest.CP_006" />
-        <item itemvalue="JUnit.ServiciosTest.CP_004" />
+        <item itemvalue="JUnit.ServiciosTest.CP_007" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +196,8 @@
       <updated>1583864988274</updated>
       <workItem from="1583864989939" duration="3867000" />
       <workItem from="1583872645106" duration="21315000" />
+      <workItem from="1583898911855" duration="1392000" />
+      <workItem from="1583900342487" duration="2852000" />
     </task>
     <servers />
   </component>
@@ -168,18 +205,32 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="521" y="198" key="#Project_Structure" timestamp="1583865892450">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state x="383" y="51" key="#Project_Structure" timestamp="1583899599502">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="383" y="51" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1583899599502" />
     <state x="521" y="198" key="#Project_Structure/0.0.1858.1080@0.0.1858.1080" timestamp="1583865892450" />
-    <state x="383" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583866092992">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state x="286" y="32" key="#ServiciosTest.CP_001" timestamp="1583900521464">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="286" y="32" key="#ServiciosTest.CP_001/0.0.1366.728@0.0.1366.728" timestamp="1583900521464" />
+    <state x="286" y="17" key="#ServiciosTest.CP_004" timestamp="1583899589017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="286" y="17" key="#ServiciosTest.CP_004/0.0.1366.728@0.0.1366.728" timestamp="1583899589017" />
+    <state x="274" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583900781570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583900781570" />
     <state x="383" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1583866092992" />
     <state x="92" y="92" width="1674" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583887181538">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="92" y="92" width="1674" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1583887181538" />
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583899660096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="256" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1583899660096" />
     <state x="730" y="250" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1583865738355">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -188,25 +239,33 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="659" y="294" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1583865752158" />
+    <state x="130" y="0" key="CommitChangelistDialog2" timestamp="1583899840212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="130" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583899840212" />
     <state x="635" y="281" key="FileChooserDialogImpl" timestamp="1583865811777">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="635" y="281" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1583865811777" />
-    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1583896456325">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state width="781" height="179" key="GridCell.Tab.0.bottom" timestamp="1583903153771">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="781" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583903153771" />
     <state width="1815" height="295" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1583896456325" />
-    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1583896456325">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state width="781" height="179" key="GridCell.Tab.0.center" timestamp="1583903153771">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="781" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583903153771" />
     <state width="1815" height="295" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1583896456325" />
-    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1583896456325">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state width="781" height="179" key="GridCell.Tab.0.left" timestamp="1583903153771">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="781" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583903153771" />
     <state width="1815" height="295" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1583896456325" />
-    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1583896456325">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state width="781" height="179" key="GridCell.Tab.0.right" timestamp="1583903153771">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="781" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583903153771" />
     <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1583896456325" />
     <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1583893883000">
       <screen x="0" y="0" width="1858" height="1080" />
@@ -224,6 +283,18 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1815" height="364" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1583893883000" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1583900290423">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583900290423" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1583899620292">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1583899620292" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1583898918221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583898918221" />
     <state x="633" y="433" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583865793981">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -233,15 +304,9 @@
     </state>
     <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1583886126199" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/example/ServiciosTest.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ServiciosTest$ServiciosTest.ic" NAME="ServiciosTest Coverage Results" MODIFIED="1583903030548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
   </component>
 </project>

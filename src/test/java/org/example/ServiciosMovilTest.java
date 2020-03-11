@@ -26,7 +26,7 @@ public class ServiciosMovilTest
 
     @BeforeClass
     public static void openBrowser(){
-        System.setProperty("webdriver.chrome.driver", "D:\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
         Map<String, String> mobileEmulation = new HashMap<>();
         mobileEmulation.put("deviceName", "Pixel 2 XL");
         ChromeOptions options = new ChromeOptions();
